@@ -1,0 +1,10 @@
+C:\Users\21lreeves\source\repos\Wacky\Wacky\bin\Debug\Wacky.exe.config
+C:\Users\21lreeves\source\repos\Wacky\Wacky\bin\Debug\Wacky.exe
+C:\Users\21lreeves\source\repos\Wacky\Wacky\bin\Debug\Wacky.pdb
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.csprojAssemblyReference.cache
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.Properties.Resources.resources
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.csproj.GenerateResource.cache
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.csproj.CoreCompileInputs.cache
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.exe
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.pdb
+C:\Users\21lreeves\source\repos\Wacky\Wacky\obj\Debug\Wacky.Hola.resources
